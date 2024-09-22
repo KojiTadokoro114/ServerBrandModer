@@ -1,0 +1,13 @@
+name: ServerBrandModer
+version: 1.14.514
+main: com.homo.tadokoro.bukkit.ServerBrandModer
+authors:
+  - KojiTadokoro114
+api-version: 1.20
+commands:
+  serverbrand:
+    aliases:
+      - sb
+permissions:
+  serverbrand.modify:
+    default: op
